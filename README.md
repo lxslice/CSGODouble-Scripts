@@ -1,2 +1,2 @@
-# CSGODouble Scripts
-A collection of unique and clean "csgodouble.com" auto betting scripts.
+#CSGODouble Auto Bet Scripts**
+A unique and clean collection of "csgodouble.com" auto bet scripts.
