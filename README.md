@@ -1,4 +1,4 @@
-##*A unique and clean collection of "csgodouble.com" auto bet scripts that use "Martingale" betting system.*
+##*List of the scripts*
 ######Basic (Bets only on one color, red or black.)
 [Basic](https://raw.githubusercontent.com/lxslice/CSGODouble-Scripts/master/Basic.js)
 ######Last Color (Bets on the last color rolled.)
