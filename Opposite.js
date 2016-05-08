@@ -7,7 +7,7 @@ var safety = 1;
 //2=50-74%-1draw 
 //3=75-86%-2draws 
 
-var mode = 'martingale'; // can be 'martingale' or 'anti-martingale' (WAT? https://en.wikipedia.org/wiki/Martingale_(betting_system) )
+var mode = 'martingale'; // can be 'martingale' or 'anti-martingale' (https://en.wikipedia.org/wiki/Martingale_(betting_system) )
 //////////////////////////
 
 var selection = 'differentcolor';
