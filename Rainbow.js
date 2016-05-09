@@ -25,6 +25,15 @@ function tick() {
     }
 }
 
+//Auto Reconnect
+console.log('%cAuto-Reconnect Initialized!', 'color:green');
+setInterval(function() {
+  if (!WS) {
+    console.log('Reconnecting...');
+    connect();
+  }
+}, 5000);
+
 function checkBalance() {
     return currentBetAmount * safety > getBalance() ? (console.warn("BANKRUPT! Not enough balance for next bet, aborting."), clearInterval(refreshIntervalId), !1) : !0
 }
